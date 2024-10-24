@@ -1,5 +1,5 @@
 [project]
-name = "dipraph-cli"
+name = "depraph-cli"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
